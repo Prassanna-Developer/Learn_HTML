@@ -1,0 +1,11 @@
+#test_1 {
+		background-color:red; 
+	}
+
+	p.testClass {
+		background-color:cyan; 
+	}
+
+	#id4 {
+		background-color:yellow; 
+	}

@@ -1,0 +1,27 @@
+table, th ,tr,td {
+			border: 1px solid black;
+			border-collapse: collapse;
+
+		}
+
+		th {
+			background-color:orange; 
+			text-align: left;
+
+		}
+		table {
+			border-spacing: 5px;
+		}
+
+
+
+		 
+
+		table#table1 tr:nth-child(even){
+			background-color:cyan; 
+		}
+
+
+		table#table1 tr:nth-child(odd){
+			background-color:red; 
+		}
